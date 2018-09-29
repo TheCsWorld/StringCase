@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 /*reads a string from the keyboard, and outputs the string twice in a row, first all
-uppercase and next all lowercase. Example the string “Hello" is given, the output will be “HELLOhello"*/
+uppercase and next all lowercase. Example: the string â€œHello" is given, the output will be â€œHELLOhello"*/
 public class ChangeStringCase {
 
 	public static void main(String[] args) {
